@@ -1,0 +1,16 @@
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.exe
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.deps.json
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.runtimeconfig.json
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.dll
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.pdb
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfoInputs.cache
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfo.cs
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.dll
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\refint\htmlSerializer.dll
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.pdb
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.genruntimeconfig.cache
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\ref\htmlSerializer.dll
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlTags.json
+C:\Users\1\Documents\שנה ב לימודים\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlVoidTags.json
